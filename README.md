@@ -1,7 +1,9 @@
+# This is a fork!
+
 Email Open Tracking in PHP
 =============================
 This code shows how to use HTML emails and PHP/MySQL to track
-email opens and clickthroughs 
+email opens and clickthroughs
 
 It is intended as a complement to my tutorial:
 http://tonygaitatzis.tumblr.com/post/65647388814/big-data-email-open-tracking-in-php
@@ -16,5 +18,3 @@ Set up your settings file to reflect your MySQL server settings.
     $settings['mysql']['schema'] = 'tracker_example';
 
 Now You should be good to go.
-
-

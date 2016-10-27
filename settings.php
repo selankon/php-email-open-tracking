@@ -1,9 +1,9 @@
 <?php
     // settings.php
-    
-    $settings['mysql']['server'] = 'SERVER';
-    $settings['mysql']['username'] = 'USERNAME';
-    $settings['mysql']['password'] = 'PASSWORD';
-    $settings['mysql']['schema'] = 'SCHEMA';
-    
+
+    $settings['mysql']['server'] = 'localhost';
+    $settings['mysql']['username'] = 'username';
+    $settings['mysql']['password'] = 'password';
+    $settings['mysql']['schema'] = 'schema';
+
 ?>
