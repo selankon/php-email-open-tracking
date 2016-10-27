@@ -1,5 +1,13 @@
 # This is a fork!
 
+From: https://github.com/backupbrain/php-email-open-tracking/
+
+## Changes:
+- Some minor issues solved
+- Added suport for catch ip and user agent
+- Change image to 1px*1px transparent
+
+
 Email Open Tracking in PHP
 =============================
 This code shows how to use HTML emails and PHP/MySQL to track
